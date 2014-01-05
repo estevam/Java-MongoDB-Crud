@@ -1,3 +1,5 @@
+# For you to configure your MongoDB add the follow collections:
+
 show dbs
 use mydb
 db.createCollection("user")
